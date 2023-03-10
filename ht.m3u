@@ -1,48 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港澳台",TVB翡翠
-https://pull-l3-cny.douyincdn.com/live/18fc482f659ad73e405822028b0d6a55.m3u8
+https://pull-l3-cny.douyincdn.com/live/fe4bdfa6a78755b4081c082df0ded89b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港澳台",TVB明珠
-https://pull-l3-cny.douyincdn.com/live/4e10d0c0bd85f59f217bcdc6c30fbf6a.m3u8
+https://pull-l3-cny.douyincdn.com/live/92fc98ee633cbdf8d68c4be3eb98bf08.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港澳台",中天新闻
-https://pull-l3-cny.douyincdn.com/live/3f93ed31b01ea3e3ea11fc1736763df4.m3u8
+https://pull-l3-cny.douyincdn.com/live/dc8d964ddf6b195d71a2071ee41a264d.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港澳台",东森新闻
-https://pull-l3-cny.douyincdn.com/live/ed9ec8aef51816172310f0308caa6042.m3u8
+https://pull-l3-cny.douyincdn.com/live/e3802aec625fce0baf7fa05dba876360.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港澳台",TVBS欢乐
-https://pull-l3-cny.douyincdn.com/live/b846f49cc9b7fac5321ab0f8acd90fdb.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港澳台",TVBS新闻
-https://pull-l3-cny.douyincdn.com/live/2d784a170ef46ef92a7e38464574ca59.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港澳台",澳视澳门
-http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+https://pull-l3-cny.douyincdn.com/live/7ff163f8b6ddf3e23aacda5a217da62e.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港澳台",澳门莲花
 http://anren.live/HK/BiIOU11uLA.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港澳台",寰宇新闻
-https://pull-l3-cny.douyincdn.com/live/29abbee2096738b279b3dfda2b66726e.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港澳台",TVBSHD
-https://pull-l3-cny.douyincdn.com/live/8978c4f4e570051d62bf16e20f7d8a2f.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港澳台",中视HD
-https://pull-l3-cny.douyincdn.com/live/1f40d8579a40b2b27d685d4beb08b4a3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港澳台",香港有线体育
-https://pull-l3-cny.douyincdn.com/live/643f248072bc7d4971a2d0e835ca74c7.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港澳台",纬来体育
-https://pull-l3-cny.douyincdn.com/live/061e7cc57a56ba66a307d78c29857593.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港澳台",中视新闻
-https://pull-l3-cny.douyincdn.com/live/fe15f4a4d3bd54ba9851b36c88723d8c.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港澳台",纬来育乐
-https://pull-l3-cny.douyincdn.com/live/f657b295e90166706b6348ebc92b858d.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港澳台",星光影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -52,5 +25,6 @@ https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港澳台",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+
 
 
